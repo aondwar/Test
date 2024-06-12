@@ -19,7 +19,7 @@ pipeline {
 
               stage('Deploy1') {
             steps {
-                echo 'This is Deploying job....'
+                echo 'Thisd is Deploying job....'
             }
         }
     }
